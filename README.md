@@ -1,7 +1,6 @@
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/93636117/197247193-717bd753-20cc-4f8c-b08a-5774d1a5895d.png" width="3000" />
-  <h2 align="center">Rosé Pine Theme</h2>
+  <img src="https://user-images.githubusercontent.com/93636117/197279457-9d0a86bd-490a-475b-a6f8-5f6f7456135c.jpg" width="3000" />
 </p>
 
 
