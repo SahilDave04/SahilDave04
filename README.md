@@ -1,8 +1,8 @@
 ### Hi there 👋
-
+![sunset1](https://user-images.githubusercontent.com/93636117/197146044-95a4ce91-0c1c-44a0-8ab7-acade845f28d.jpg)
 <!--
 **SahilDave04/SahilDave04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![sunset1](https://user-images.githubusercontent.com/93636117/197146044-95a4ce91-0c1c-44a0-8ab7-acade845f28d.jpg)
+
 
 Here are some ideas to get you started:
 
